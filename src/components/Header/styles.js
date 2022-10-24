@@ -36,18 +36,15 @@ export const Wrapper = styled.div`
     
 `
 
-export const BuscadorInputContainer = styled.div`
-    width: 175px;
+export const BuscarInputContainer = styled.div`
+    width: 275px;
     height: 30px;
     background: #2D2D37;
     border-radius: 8px;
     padding: 2px 5px;
     margin: 0 12px;
-    
-    display: flex;
-    align-items: center;
-    justify-content: center;
-`
+    display:flex;
+    `
 
 export const Menu = styled.a`
     font-family: 'Open Sans';
